@@ -1,0 +1,49 @@
+/*tag--------------------------------------------------------*/
+
+p, ul, ol {
+	color: #555555;
+	font-family: Verdana, "Geneva CY", "DejaVu Sans", sans-serif;
+	font-size: 20px;
+	font-align: center;
+}
+
+/*class---------------------------------------------------*/
+.umbrella {
+	text-align: left;
+	color: #555555;
+	text-decoration-line: none;
+}
+
+.menu {		
+	font-size: 22px;	
+	font-family: Arial, "Helvetica CY", "Nimbus Sans L", sans-serif;	
+}
+
+.list {
+	text-decoration-line: none;
+}
+
+.justify {
+	text-align: justify;
+}
+
+/*id------------------------------------------------------*/
+
+
+/*link--------------------------------------------------*/
+
+a:link {
+	color: ;
+} 
+
+a:visited {
+	color: ;
+}
+
+a:hover {
+	color: ;
+}
+
+a:active {
+	color: ;
+}
